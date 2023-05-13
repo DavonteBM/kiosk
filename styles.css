@@ -1,0 +1,34 @@
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.flex-container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.btn-dark{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 2%;
+  
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  gap: 3rem;
+}
+body{
+  height: 100vh;
+}
